@@ -1,4 +1,4 @@
-package com.alex.facebookexample;
+package com.alex.connect;
 
 import org.junit.Test;
 
